@@ -61,7 +61,7 @@ Interactive dashboard analyzing:
 
 👉 [Sales Performance & Profit Analysis Dashboard](https://github.com/sabitha-portfolio/Sales-Performance-Profit-Analysis)
 👉 [Google pay transactions Dashboard](https://github.com/sabitha-portfolio/Google-pay-transactions)
-👉 [Online-store-sales-Profit-analysis Dashboard](https://github.com/sabitha-portfolio/Google-pay-transactions)
+👉 [Online-store-sales-Profit-analysis Dashboard](https://github.com/sabitha-portfolio/Online-store-sales-Profit-analysis)
 ---
 
 ## 📚 What I'm Currently Learning
