@@ -59,7 +59,7 @@ Interactive dashboard analyzing:
 - Profitability
 - Key Performance Indicators (KPIs)
 
-👉 [View Project](https://github.com/sabitha-portfolio/Sales-Performance-Profit-Analysis)
+👉 [Sales Performance & Profit Analysis Dashboard](https://github.com/sabitha-portfolio/Sales-Performance-Profit-Analysis)
 
 ---
 
