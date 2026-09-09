@@ -60,7 +60,7 @@ Interactive dashboard analyzing:
 - Key Performance Indicators (KPIs)
 
 👉 [Sales Performance & Profit Analysis Dashboard](https://github.com/sabitha-portfolio/Sales-Performance-Profit-Analysis)
-👉 [Google pay transactions Dashboard](https://github.com/sabitha-portfolio/Google-pay-transactions))
+👉 [Google pay transactions Dashboard](https://github.com/sabitha-portfolio/Google-pay-transactions)
 ---
 
 ## 📚 What I'm Currently Learning
